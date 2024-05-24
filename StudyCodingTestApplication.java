@@ -11,9 +11,9 @@ import java.io.IOException;
 public class StudyCodingTestApplication {
 
 	public static void main(String[] args) throws IOException {
-		PGS_42885 pgs42885 = new PGS_42885();
-		System.out.println("expect : 3, result : " + pgs42885.solution(new int[]{70, 50, 80, 50}, 100));
-		System.out.println("expect : 3, result : " + pgs42885.solution(new int[]{70, 80, 50}, 100));
+		PGS_42627 pgs42627 = new PGS_42627();
+		System.out.println("expect : 9, result : " + pgs42627.solution(new int[][]{{1, 9}, {0, 3}, {2, 6}}));
+		System.out.println("expect : 72, result : " + pgs42627.solution(new int[][]{{24, 10}, {28, 39}, {43, 20}, {37, 5}, {47, 22}, {20, 47}, {15, 34}, {15, 2}, {35, 43}, {26, 1}}));
+		System.out.println("expect : 6, result : " + pgs42627.solution(new int[][]{{0, 5}, {2, 10}, {10000, 2}}));
 	}
-
 }
