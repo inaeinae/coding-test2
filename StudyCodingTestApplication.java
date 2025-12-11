@@ -2,6 +2,7 @@ package inaeinae.studycodingtest;
 
 import inaeinae.studycodingtest.BaekJoon.BJ_14928;
 import inaeinae.studycodingtest.BaekJoon.BJ_27889;
+import inaeinae.studycodingtest.BaekJoon.BJ_29751;
 import inaeinae.studycodingtest.Doit.No20_P2751;
 import inaeinae.studycodingtest.PGS.*;
 import org.springframework.boot.SpringApplication;
@@ -13,7 +14,7 @@ import java.io.IOException;
 public class StudyCodingTestApplication {
 
 	public static void main(String[] args) throws IOException {
-		BJ_27889 bj27889 = new BJ_27889();
-		bj27889.solution();
+		BJ_29751 bj29751 = new BJ_29751();
+		bj29751.solution();
 	}
 }
