@@ -3,7 +3,7 @@ package inaeinae.studycodingtest.BaekJoon;
 import java.io.*;
 
 /**
- * [BJ] 큰 수 (BIG) / lv5
+ * [BJ] 큰 수 (BIG) / bronze lv5
  * (2025.12.11) https://www.acmicpc.net/problem/14928
  */
 public class BJ_14928 {

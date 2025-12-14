@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 
 /**
- * [BJ] 삼각형 / lv5
+ * [BJ] 삼각형 / bronze lv5
  * (2025.12.12) https://www.acmicpc.net/problem/29751
  */
 public class BJ_29751 {

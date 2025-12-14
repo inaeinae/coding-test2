@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Arrays;
 
 /**
- * [BJ] 노트북 세 대를 가지고 왔다 / lv5
+ * [BJ] 노트북 세 대를 가지고 왔다 / bronze lv5
  * (2025.12.14) https://www.acmicpc.net/problem/33515
  */
 public class BJ_33515 {

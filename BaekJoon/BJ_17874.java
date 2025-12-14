@@ -3,7 +3,7 @@ package inaeinae.studycodingtest.BaekJoon;
 import java.io.*;
 
 /**
- * [BJ] Piece of Cake! / lv4
+ * [BJ] Piece of Cake! / bronze lv4
  * (2025.12.14) https://www.acmicpc.net/problem/17874
  */
 public class BJ_17874 {

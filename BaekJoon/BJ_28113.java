@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 
 /**
- * [BJ] 정보섬의 대중교통 / lv5
+ * [BJ] 정보섬의 대중교통 / bronze lv5
  * (2025.12.12) https://www.acmicpc.net/problem/28113
  */
 public class BJ_28113 {

@@ -3,7 +3,7 @@ package inaeinae.studycodingtest.BaekJoon;
 import java.io.*;
 
 /**
- * [BJ] 와글와글 숭고한 / lv4
+ * [BJ] 와글와글 숭고한 / bronze lv4
  * (2025.12.14) https://www.acmicpc.net/problem/17388
  */
 public class BJ_17388 {

@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 
 /**
- * [BJ] 특별한 학교 이름 / lv5
+ * [BJ] 특별한 학교 이름 / bronze lv5
  * (2025.12.11) https://www.acmicpc.net/problem/27889
  */
 public class BJ_27889 {
