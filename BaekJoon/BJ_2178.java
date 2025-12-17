@@ -7,12 +7,12 @@ import java.util.*;
  * (2025.12.17) https://www.acmicpc.net/problem/2178
  */
 public class BJ_2178 {
-    static int startX = 0, startY = 0;
-    static int n, m;
-    static int[][] map;
-    static boolean[][] visited;
-    static int[] dx = {-1, 1, 0, 0}; // x 방향 상하좌우
-    static int[] dy = {0, 0, -1, 1}; // y방향 상하좌우
+    private final int startX = 0, startY = 0;
+    private final int[] dx = {-1, 1, 0, 0}; // x 방향 상하좌우
+    private final int[] dy = {0, 0, -1, 1}; // y방향 상하좌우
+    private int n, m;
+    private int[][] map;
+    private boolean[][] visited;
 
     public void solution() {
         Scanner scanner = new Scanner(System.in);
@@ -34,7 +34,7 @@ public class BJ_2178 {
         System.out.println(map[n-1][m-1]);
     }
 
-    static void findRoute() {
+    private void findRoute() {
         Queue<int[]> queue = new LinkedList<>();
         queue.offer(new int[]{startX,startY});
         visited[startX][startY] = true; // 방문
