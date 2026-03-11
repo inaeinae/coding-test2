@@ -12,7 +12,7 @@ import java.io.IOException;
 public class StudyCodingTestApplication {
 
 	public static void main(String[] args) throws IOException {
-		BJ_7576 bj = new BJ_7576();
+		BJ_14500 bj = new BJ_14500();
 		bj.solution();
 	}
 }
